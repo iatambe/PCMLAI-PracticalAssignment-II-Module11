@@ -22,7 +22,6 @@ Below are some plots showing how used car prices varied for some different param
 \
 From the graph, we see that predicted price decreases steadily with odometer miles. Therefore we suggest preferring used cars with low odometer values.
 
-
 - Car type:
 \
 ![](plots/predicted_price_vs_car_type.png)
@@ -33,11 +32,19 @@ From the graph, we see that pickups, offroad vehicles, and (especially) converti
 \
 ![](plots/predicted_price_vs_paint_color.png)
 \
-From the graph, we see that black and yellow cars have higher prices, whereas green cars have lower prices, on average. Therefore, we suggest preferring black and yellow cars, and avoiding green cars, in inventory.
+From the graph, we see that black and yellow cars have higher prices, whereas green cars have lower prices, on average. Therefore, we suggest preferring black and yellow cars, and avoiding green cars.
 
+- Car fuel type:
+\
+![](plots/predicted_price_vs_fuel_type.png)
+\
+From the graph, we see that diesel cars have higher prices, so we suggest preferring these in inventory.
 
-
-
+- Year:
+\
+![](plots/predicted_price_vs_year.png)
+\
+From the graph, we see that year has very little effect on car price. Therefore we suggest not to take year into account much when tuning inventory.
 
 <!--
 
