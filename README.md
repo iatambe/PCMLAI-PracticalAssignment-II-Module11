@@ -32,7 +32,7 @@ From the graph, we see that pickups, offroad vehicles, and (especially) converti
 \
 ![](plots/predicted_price_vs_paint_color.png)
 \
-From the graph, we see that black and yellow cars have higher prices, whereas green cars have lower prices, on average. Therefore, we suggest preferring black and yellow cars, and avoiding green cars.
+From the graph, we see that black, yellow, and orange cars have higher prices, whereas green cars have lower prices, on average. Therefore, we suggest preferring black, yellow, and orange cars, and avoiding green cars.
 
 - Car fuel type:
 \
@@ -51,7 +51,7 @@ From the graph, we see that year has very little effect on car price. Therefore 
 Based on the above findings, we propose the following decisions:
 - Preferring used cars with low odometer values.
 - Focusing on carrying pickups, offroad vehicles, and (especially) convertibles in inventory.
-- Avoiding green cars, and preferring black and yellow cars.
+- Avoiding green cars, and preferring black, yellow, and orange cars.
 - Preferring cars of diesel type in inventory.
 - Not taking year into account when tuning inventory.
 
