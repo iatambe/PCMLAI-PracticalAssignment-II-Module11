@@ -10,7 +10,7 @@ The goal of this project is to determine what factors influence the price of use
 
 Our data, which comes from Kaggle dataset, can be found in the [data/vehicles.csv.zip](data/vehicles.csv.zip) file (the file is a compressed zip file).
 
-Each data point corresponds to a sold used car. The data points contain the selling price, as well as the year and model of the car, total miles on the odometer, and state and city where the car was sold. Much of the data contains additional information about the car such as paint color, drive type, fuel type, transmission, etc.
+Each data point corresponds to a sold used car. The data points contain the selling price, as well as the year and model of the car, total miles on the odometer, and state and city where the car was sold. Much of the data contains additional information about the car such as paint color, drive type, fuel type, transmission, condition of the car, etc.
 
 ## Findings
 
