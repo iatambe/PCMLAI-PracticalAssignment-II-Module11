@@ -46,6 +46,15 @@ From the graph, we see that diesel cars have higher prices, so we suggest prefer
 \
 From the graph, we see that year has very little effect on car price. Therefore we suggest not to take year into account much when tuning inventory.
 
+## Recommendations
+
+Based on the above findings, we propose the following decisions:
+- Preferring used cars with low odometer values.
+- Focusing on carrying pickups, offroad vehicles, and (especially) convertibles in inventory.
+- Avoiding green cars, and preferring black and yellow cars.
+- Preferring cars of diesel type in inventory.
+- Not taking year into account when tuning inventory.
+
 <!--
 
 ### Findings for cheaper (under $20 per person) restaurant coupons
