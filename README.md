@@ -14,6 +14,31 @@ Each data point corresponds to a sold used car. The data points contain the sell
 
 ## Findings
 
+Below are some plots showing how used car prices varied for some different parameters.
+
+- Odometer miles:
+\
+![](plots/predicted_price_vs_odometer_value.png)
+\
+From the graph, we see that predicted price decreases steadily with odometer miles. Therefore we suggest preferring used cars with low odometer values.
+
+
+- Car type:
+\
+![](plots/predicted_price_vs_car_type.png)
+\
+From the graph, we see that pickups, offroad vehicles, and (especially) convertibles get higher prices. Therefore, we suggest focusing on carrying thesee in inventory.
+
+- Car paint color:
+\
+![](plots/predicted_price_vs_paint_color.png)
+\
+From the graph, we see that black and yellow cars have higher prices, whereas green cars have lower prices, on average. Therefore, we suggest preferring black and yellow cars, and avoiding green cars, in inventory.
+
+
+
+
+
 <!--
 
 ### Findings for cheaper (under $20 per person) restaurant coupons
