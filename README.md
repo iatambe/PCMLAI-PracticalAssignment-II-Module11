@@ -20,7 +20,7 @@ Below are some plots showing how used car prices varied for some different param
 \
 ![](plots/predicted_price_vs_year.png)
 \
-From the graph, we see that predicted price is low at 1900, reaches a peak around 1935, goes down to another trough at 1990, then increases greatly until 2022.
+From the graph, we see that predicted price is low at 1900, reaches a peak around 1940, goes down to another trough at 1990, then increases greatly until 2022.
 
 - Odometer miles:
 \
@@ -49,7 +49,7 @@ From the graph, we see that diesel cars have higher prices, so we suggest prefer
 ## Recommendations
 
 Based on the above findings, we propose the following decisions:
-- Avoiding cars from around 1900 and 1990, but preferring cars close to 1935 or close to 2022.
+- Avoiding cars from around 1900 and 1990, but preferring cars close to 1940 or close to 2022.
 - Preferring used cars with low odometer values.
 - Focusing on carrying pickups, offroad vehicles, and (especially) convertibles in inventory.
 - Avoiding green cars, and preferring black and yellow cars.
